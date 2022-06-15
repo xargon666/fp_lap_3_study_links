@@ -1,5 +1,7 @@
 Lap 3 Topics
 ==========
+## August Home & Videos
+- [Auguste Home - Videos](https://github.com/orgs/getfutureproof/teams/auguste)
 ## Summary
 - [Lap 3](https://github.com/getfutureproof/fp_guides_wiki/wiki/LAP-3)
 
