@@ -13,7 +13,7 @@ Lap 3 Topics
 
 ## Exercises
 - [Intro to React - Music App](https://github.com/getfutureproof/fp_study_notes_intro_to_react)
-- [React State and Eventing - Additional Excercises for music app (no repo)](https://github.com/getfutureproof/fp_study_notes_react_state_and_eventing)
+- [React State and Eventing - Add. Ex. for music app (no repo)](https://github.com/getfutureproof/fp_study_notes_react_state_and_eventing)
 - [Codealong React - Newsies](https://github.com/getfutureproof/fp_codealong_react_newsies)
 - [React Props](https://github.com/getfutureproof/fp_study_notes_react_props)
 - [React useEffect](https://github.com/getfutureproof/fp_study_notes_react_useEffect)
