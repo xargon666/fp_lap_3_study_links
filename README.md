@@ -14,3 +14,4 @@ Lap 3 Topics
 - [React State and Eventing - Additional Excercises for music app (no repo)](https://github.com/getfutureproof/fp_study_notes_react_state_and_eventing)
 - [Codealong React - Newsies](https://github.com/getfutureproof/fp_codealong_react_newsies)
 - [React Props](https://github.com/getfutureproof/fp_study_notes_react_props)
+- [React Navigation](https://github.com/getfutureproof/fp_study_notes_react_navigation)
