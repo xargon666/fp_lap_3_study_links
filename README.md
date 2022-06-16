@@ -18,3 +18,4 @@ Lap 3 Topics
 - [React Props](https://github.com/getfutureproof/fp_study_notes_react_props)
 - [React useEffect](https://github.com/getfutureproof/fp_study_notes_react_useEffect)
 - [React Navigation](https://github.com/getfutureproof/fp_study_notes_react_navigation)
+- [Redux](https://github.com/getfutureproof/fp_study_notes_redux)
