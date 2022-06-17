@@ -10,6 +10,7 @@ Lap 3 Topics
 - [Intro to React](https://github.com/getfutureproof/fp_guides_wiki/wiki/Intro-to-React)
 - [React Deploy with Netlify](https://github.com/getfutureproof/fp_guides_wiki/wiki/React-Deploy-with-Netlify)
 - [Testing React: Jest and React Testing Library](https://github.com/getfutureproof/fp_guides_wiki/wiki/Testing-React:-Jest-and-React-Testing-Library)
+- [Intro to Dev Ops](https://github.com/getfutureproof/fp_guides_wiki/wiki/Intro-to-DevOps)
 
 ## Exercises
 - [Intro to React - Music App](https://github.com/getfutureproof/fp_study_notes_intro_to_react)
